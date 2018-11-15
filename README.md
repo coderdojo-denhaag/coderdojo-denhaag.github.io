@@ -1,2 +1,2 @@
 # coderdojo-denhaag.github.io
-Projecten van ninja
+Projecten van ninja's
