@@ -84,6 +84,7 @@ var mainState = {
 
 // Initialize Phaser, and create a 400px by 490px game
 var game = new Phaser.Game(400, 490);
+game.USE_DEVICE_PIXEL_RATIO = true;
 
 // Add the 'mainState' and call it 'main'
 game.state.add('main', mainState);
